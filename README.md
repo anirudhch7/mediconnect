@@ -11,6 +11,7 @@ This application enables patients to discover doctors, book appointments, and pr
 
 ---
 
+
 ## 2. Features in Mediconnect AI
 
 ### Core Features
@@ -28,6 +29,7 @@ This application enables patients to discover doctors, book appointments, and pr
 - **AI Appointment Prediction (Admin & Doctor):** Predicts peak booking hours, flags potential patient no-shows, and forecasts appointment demand across departments.
 
 ---
+
 
 ## 3. Tech Stack Used
 
