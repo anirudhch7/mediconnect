@@ -4,6 +4,7 @@ Mediconnect AI is a Full Stack Doctor Appointment Booking System enhanced with p
 
 ---
 
+
 ## 1. About the Project
 
 This application enables patients to discover doctors, book appointments, and process online payments seamlessly. It features dedicated dashboards for three user roles—Patients, Doctors, and Administrators. By integrating modern web technologies with advanced AI capabilities, Mediconnect AI not only simplifies traditional appointment booking but also acts as an intelligent healthcare assistant, helping patients understand their symptoms, find the right specialists, and summarize their medical reports, while helping administrators predict no-shows and demand.
